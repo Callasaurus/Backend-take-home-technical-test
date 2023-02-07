@@ -1,6 +1,6 @@
 # percayso-backend
 
-Although not required, I thought it might be nice to set up a backend using TypeScript and Express that can run and return the function that finds all pairs of integers within an array that sum to a specified value. It is fully functioning and returns the correct ouput: see below Postman testing screenshots: 
+Although not required, I thought it might be nice to set up a backend using TypeScript and Express that can run and return the function that finds all pairs of integers within an array that sum to a specified value. It is fully functioning and returns the correct ouput: see below Postman testing screenshots (I've also used Jest and Supertest for more robust testing): 
 
 # Successful requests:
 ![successful_request_1](https://user-images.githubusercontent.com/112335053/217239006-46525c93-bad2-4f5d-ac77-0f199c2e98b6.png)
