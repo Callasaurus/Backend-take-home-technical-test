@@ -18,3 +18,5 @@ app.get("/", async (req: Request, res: Response) => {
 app.listen(4321, () => {
   console.log("Running on 4321");
 });
+
+export default app;
