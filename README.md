@@ -20,6 +20,5 @@ npm run dev
 
 Running tests: 
 ```
-npm i
-npm run dev
+npm test
 ```
