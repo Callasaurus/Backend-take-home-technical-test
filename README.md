@@ -9,3 +9,17 @@ Although not required, I thought it might be nice to set up a backend using Type
 # Bad requests:
 ![bad_request_1](https://user-images.githubusercontent.com/112335053/217239111-7217c581-09cf-4722-a770-50b9986fbb16.png)
 ![bad_request_2](https://user-images.githubusercontent.com/112335053/217239151-2efff29d-b8e7-4500-9b60-8fd9b2a19e24.png)
+
+## Running the server locally 
+
+Running server:
+```
+npm i
+npm run dev
+```
+
+Running tests: 
+```
+npm i
+npm run dev
+```
