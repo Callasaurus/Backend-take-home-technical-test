@@ -18,6 +18,8 @@ A module is required that has an algorithm to find all pairs of integers within 
 
 To solve the problem, I've used a nested for loop. While this works, I realise that this may not be the most efficient way to solve the problem as it may not be an ideal solution for really large datasets (I've been doing some research into code and time complexity). Fortunately for me, I live with two friends who are both developers and I spoke to them about it after completing this exercise and they told me about hash maps being a much more efficient way of solving a problem like this (producing the same output with less total iterations). Given my limited knowledge of the method at the time of working on this exercise, I have not altered my solution, however; I feel confident that I'd be able to further optimise it.
 
+I've also set up a server using Node.js and Express to demonstrate my knowledge and ability in this area. It was also a learning opportunity for me, as I'd never done this using TypeScript before. 
+
 ## Skills 
 - TypeScript
 - Node.js
